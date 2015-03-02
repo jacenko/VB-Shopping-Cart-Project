@@ -1,0 +1,42 @@
+E:\VBNet2012\COP4005_Project\COP4005_Project\bin\Debug\COP4005_Project.exe.config
+E:\VBNet2012\COP4005_Project\COP4005_Project\bin\Debug\COP4005_Project.exe
+E:\VBNet2012\COP4005_Project\COP4005_Project\bin\Debug\COP4005_Project.pdb
+E:\VBNet2012\COP4005_Project\COP4005_Project\bin\Debug\COP4005_Project.xml
+E:\VBNet2012\COP4005_Project\COP4005_Project\obj\Debug\COP4005_Project.Form1.resources
+E:\VBNet2012\COP4005_Project\COP4005_Project\obj\Debug\COP4005_Project.frmMain.resources
+E:\VBNet2012\COP4005_Project\COP4005_Project\obj\Debug\COP4005_Project.frmMember.resources
+E:\VBNet2012\COP4005_Project\COP4005_Project\obj\Debug\COP4005_Project.Resources.resources
+E:\VBNet2012\COP4005_Project\COP4005_Project\obj\Debug\COP4005_Project.vbproj.GenerateResource.Cache
+E:\VBNet2012\COP4005_Project\COP4005_Project\obj\Debug\COP4005_Project.exe
+E:\VBNet2012\COP4005_Project\COP4005_Project\obj\Debug\COP4005_Project.xml
+E:\VBNet2012\COP4005_Project\COP4005_Project\obj\Debug\COP4005_Project.pdb
+G:\COP 4005\Samples - Summer 2014\COP4005_Project\COP4005_Project\bin\Debug\COP4005_Project.exe.config
+G:\COP 4005\Samples - Summer 2014\COP4005_Project\COP4005_Project\obj\Debug\COP4005_Project.exe
+G:\COP 4005\Samples - Summer 2014\COP4005_Project\COP4005_Project\obj\Debug\COP4005_Project.xml
+G:\COP 4005\Samples - Summer 2014\COP4005_Project\COP4005_Project\obj\Debug\COP4005_Project.pdb
+E:\COP 4005\Samples - Summer 2014\COP4005_Project\COP4005_Project\bin\Debug\COP4005_Project.exe.config
+E:\COP 4005\Samples - Summer 2014\COP4005_Project\COP4005_Project\obj\Debug\COP4005_Project.exe
+E:\COP 4005\Samples - Summer 2014\COP4005_Project\COP4005_Project\obj\Debug\COP4005_Project.xml
+E:\COP 4005\Samples - Summer 2014\COP4005_Project\COP4005_Project\obj\Debug\COP4005_Project.pdb
+E:\COP 4005\Samples - Summer 2014\COP4005_Project\COP4005_Project\bin\Debug\COP4005_Project.exe
+E:\COP 4005\Samples - Summer 2014\COP4005_Project\COP4005_Project\bin\Debug\COP4005_Project.pdb
+E:\COP 4005\Samples - Summer 2014\COP4005_Project\COP4005_Project\bin\Debug\COP4005_Project.xml
+E:\COP 4005\Samples - Summer 2014\COP4005_Project\COP4005_Project\obj\Debug\COP4005_Project.frmMain.resources
+E:\COP 4005\Samples - Summer 2014\COP4005_Project\COP4005_Project\obj\Debug\COP4005_Project.frmMember.resources
+E:\COP 4005\Samples - Summer 2014\COP4005_Project\COP4005_Project\obj\Debug\COP4005_Project.Resources.resources
+E:\COP 4005\Samples - Summer 2014\COP4005_Project\COP4005_Project\obj\Debug\COP4005_Project.vbproj.GenerateResource.Cache
+C:\Users\Deniss\Documents\Visual Studio 2013\Projects\COP4005_Project\COP4005_Project\bin\Debug\COP4005_Project.exe
+C:\Users\Deniss\Documents\Visual Studio 2013\Projects\COP4005_Project\COP4005_Project\bin\Debug\COP4005_Project.exe.config
+C:\Users\Deniss\Documents\Visual Studio 2013\Projects\COP4005_Project\COP4005_Project\obj\Debug\COP4005_Project.frmInvoice.resources
+C:\Users\Deniss\Documents\Visual Studio 2013\Projects\COP4005_Project\COP4005_Project\obj\Debug\COP4005_Project.frmLogin.resources
+C:\Users\Deniss\Documents\Visual Studio 2013\Projects\COP4005_Project\COP4005_Project\obj\Debug\COP4005_Project.frmMain.resources
+C:\Users\Deniss\Documents\Visual Studio 2013\Projects\COP4005_Project\COP4005_Project\obj\Debug\COP4005_Project.frmMember.resources
+C:\Users\Deniss\Documents\Visual Studio 2013\Projects\COP4005_Project\COP4005_Project\obj\Debug\COP4005_Project.frmShoppingCart.resources
+C:\Users\Deniss\Documents\Visual Studio 2013\Projects\COP4005_Project\COP4005_Project\obj\Debug\COP4005_Project.frmSupplierList.resources
+C:\Users\Deniss\Documents\Visual Studio 2013\Projects\COP4005_Project\COP4005_Project\obj\Debug\COP4005_Project.Resources.resources
+C:\Users\Deniss\Documents\Visual Studio 2013\Projects\COP4005_Project\COP4005_Project\obj\Debug\COP4005_Project.vbproj.GenerateResource.Cache
+C:\Users\Deniss\Documents\Visual Studio 2013\Projects\COP4005_Project\COP4005_Project\obj\Debug\COP4005_Project.exe
+C:\Users\Deniss\Documents\Visual Studio 2013\Projects\COP4005_Project\COP4005_Project\obj\Debug\COP4005_Project.xml
+C:\Users\Deniss\Documents\Visual Studio 2013\Projects\COP4005_Project\COP4005_Project\obj\Debug\COP4005_Project.pdb
+C:\Users\Deniss\Documents\Visual Studio 2013\Projects\COP4005_Project\COP4005_Project\bin\Debug\COP4005_Project.pdb
+C:\Users\Deniss\Documents\Visual Studio 2013\Projects\COP4005_Project\COP4005_Project\bin\Debug\COP4005_Project.xml
